@@ -3,10 +3,17 @@ Time Series's Modeling &amp; Forecast - Final Project for the Time Series Analys
 
 ## Introduction
 
-The analysis processes and results are explained in 時序報告.pdf.
-Data are collected from 2007 - 2016 and is monthly average.
+The analysis processes and results are explained in 時序報告.pdf.   
+* Data
+  * Time : 2007 - 2016
+  * Unit : Monthly Average
 
 ## Structure
-1. pm2.5_final.R : pm2.5 time series model building and forecasting
-2. rain_final.R : rain time series model building and forecasting
-3. pm2.5_rain_cor.R: correlation between pm2.5 and rain after buiiding time series models (remove time effect).
+1. pm2.5_final.R :   
+  pm2.5 time series model building and forecasting  
+  
+2. rain_final.R :   
+  rain time series model building and forecasting   
+  
+3. pm2.5_rain_cor.R :    
+  correlation between pm2.5 and rain after buiiding time series models (remove time effect) 
