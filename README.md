@@ -3,7 +3,7 @@ Time Series's Modeling &amp; Forecast - Final Project for the Time Series Analys
 
 ## Introduction
 
-The analysis processes and results are explained in 時序報告.pdf.   
+The analysis processes and results are explained in 時序報告.pdf  
 * Data
   * Time : 2007 - 2016
   * Unit : Monthly Average
