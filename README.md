@@ -4,6 +4,7 @@ Time Series's Modeling &amp; Forecast - Final Project for the Time Series Analys
 ## Introduction
 
 The analysis processes and results are explained in 時序報告.pdf.
+Data are collected from 2007 - 2016 and is monthly average.
 
 ## Structure
 1. pm2.5_final.R : pm2.5 time series model building and forecasting
